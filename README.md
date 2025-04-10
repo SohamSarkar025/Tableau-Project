@@ -30,7 +30,7 @@ The PDF dashboard presents:
   - 🔝 Top 10 Batsmen by Runs
   - 🔝 Top 10 Bowlers by Wickets
 
-## 📁 File
+## DASHBOARD
 
 - ![Dashboard 1](https://github.com/user-attachments/assets/1ea4d17d-2d33-4365-b86b-ec3b672a3ed2)
 
@@ -38,7 +38,7 @@ The PDF dashboard presents:
 ## 📌 Technologies Used
 
 - Data sourced from IPL matches (2008–2020)
-- Data visualization tool: [Your preferred tool here, e.g., Tableau, Power BI, Excel]
+- Data visualization tool: Tableau
 
 ## 🚀 Click the below link to open the project in Tableau Server
 
