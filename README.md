@@ -40,11 +40,9 @@ The PDF dashboard presents:
 - Data sourced from IPL matches (2008–2020)
 - Data visualization tool: [Your preferred tool here, e.g., Tableau, Power BI, Excel]
 
-## 🚀 How to Use
+## 🚀 Click the below link to open the project in Tableau Server
 
-1. Download the `Dashboard 1.pdf` file.
-2. Explore key IPL insights and patterns.
-3. Use the data for presentations, sports research, or fan analysis!
+https://public.tableau.com/shared/WPMXR8TSJ?:display_count=n&:origin=viz_share_link
 
 ## 📬 Feedback
 
